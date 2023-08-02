@@ -6,9 +6,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mokyue&count_private=true&show_icons=true&theme=radical" />
 
-- ![](https://img.shields.io/badge/-Mainly%20using%20C++,%20Python,%20Java-0A0A0A?style=social&logo=devdotto)
+- ![](https://img.shields.io/badge/-Mainly%20using%20C++,%20Python,%20Java-246FDB?style=social&logo=googletagmanager)
 - ![](https://img.shields.io/badge/-Senior%20Development%20Engineer-0018A8?style=social&logo=deutschebank)
-- ![](https://img.shields.io/badge/-Client%E2%94%80side%20Development-003366?style=social&logo=linuxfoundation)
+- ![](https://img.shields.io/badge/-Client%E2%94%80side%20Development-F26207?style=social&logo=replit)
 - ![](https://img.shields.io/badge/-Cantonese,%20Mandarin,%20English-4285F4?style=social&logo=googleearth)
 - ![](https://img.shields.io/badge/-mokyue@163.com-EA4335?style=social&logo=gmail)
 - ![](https://img.shields.io/badge/-Moky%239268-5865F2?style=social&logo=discord)
