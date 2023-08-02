@@ -36,6 +36,6 @@
 
 - 💼 I’m currently working on Netease
 - 🙇🏻 I’m currently learning DirectX
-- 🖼️ Playing Stable Diffution for fun, amateur Lora model trainer
+- 🖼️ I’m playing Stable Diffution for fun, amateur Lora model trainer
 - ⛱️ I'm planning a trip during the outbreak
 - ☕ A cup of coffee with 4 shots of espresso every day
