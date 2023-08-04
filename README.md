@@ -2,7 +2,7 @@
 
 <br/>
 
-🕵️ **About Me**
+🤖 **About Me**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mokyue&count_private=true&show_icons=true&theme=radical" />
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-👨🏻‍💻 **Skills**
+🖥️ **Skills**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokyue&layout=compact&theme=radical" />
 
@@ -34,8 +34,9 @@
 
 👁️ **Others**
 
-- 💼 I’m currently working on Netease
-- 🙇🏻 I’m currently learning DirectX
-- 🖼️ I’m playing Stable Diffution for fun, amateur Lora model trainer
-- ⛱️ I'm planning a trip during the outbreak
-- ☕ A cup of coffee a day, with 4 shots of espresso
+- `💼 I’m currently employed at Netease.`
+- `🙇🏻 I’m currently learning DirectX.`
+- `🖼️ I’m playing Stable Diffution for fun, amateur Lora model trainer.`
+- `⛱️ I'm planning a trip during the outbreak.`
+- `☕ A cup of coffee a day, with 4 shots of espresso.`
+- `🚭 No smoking.`
