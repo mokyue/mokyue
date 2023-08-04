@@ -34,9 +34,9 @@
 
 👁️ **Others**
 
-- `💼 I’m currently employed at Netease.`
-- `🙇🏻 I’m currently learning DirectX.`
-- `🖼️ I’m playing Stable Diffution for fun, amateur Lora model trainer.`
-- `⛱️ I'm planning a trip during the outbreak.`
-- `☕ A cup of coffee a day, with 4 shots of espresso.`
-- `🚭 No smoking.`
+- `💼 I’m currently employed at Netease`
+- `🙇🏻 I’m currently learning DirectX`
+- `🖼️ I’m playing Stable Diffution for fun, amateur Lora model trainer`
+- `⛱️ I'm planning a trip during the outbreak`
+- `☕ A cup of coffee a day, with 4 shots of espresso`
+- `🚭 Non-smoker`
