@@ -23,7 +23,7 @@
 - ![](https://img.shields.io/badge/-C/C++-00599C?style=social&logo=cplusplus)
 - ![](https://img.shields.io/badge/-Python-3776AB?style=social&logo=python)
 - ![](https://img.shields.io/badge/-Java-2F2625?style=social&logo=coffeescript)
-- ![](https://img.shields.io/badge/-C%23-239120?style=social&logo=csharp)
+- ![](https://img.shields.io/badge/-C%E2%94%80Sharp-239120?style=social&logo=csharp)
 - ![](https://img.shields.io/badge/-Flutter-02569B?style=social&logo=flutter)
 - ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=social&logo=javascript)
 - ![](https://img.shields.io/badge/-Unity-FFFFFF?style=social&logo=unity)
