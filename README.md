@@ -25,9 +25,9 @@
 - ![](https://img.shields.io/badge/-Java-2F2625?style=social&logo=coffeescript)
 - ![](https://img.shields.io/badge/-C%E2%94%80Sharp-239120?style=social&logo=csharp)
 - ![](https://img.shields.io/badge/-Flutter-02569B?style=social&logo=flutter)
+- ![](https://img.shields.io/badge/-Docker-2496ED?style=social&logo=docker)
 - ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=social&logo=javascript)
 - ![](https://img.shields.io/badge/-Unity-FFFFFF?style=social&logo=unity)
-- ![](https://img.shields.io/badge/-Docker-2496ED?style=social&logo=docker)
 - ![](https://img.shields.io/badge/-Photoshop-31A8FF?style=social&logo=adobephotoshop)
 
 <br/>
