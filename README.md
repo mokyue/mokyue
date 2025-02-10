@@ -12,7 +12,7 @@
 - ![](https://img.shields.io/badge/-Cantonese,%20Mandarin,%20English-4285F4?style=social&logo=googleearth)
 - ![](https://img.shields.io/badge/-mokyue@163.com-EA4335?style=social&logo=gmail)
 - ![](https://img.shields.io/badge/-Moky%239268-5865F2?style=social&logo=discord)
-- ![](https://img.shields.io/badge/-464855455-EB1923?style=social&logo=tencentqq)
+- ![](https://img.shields.io/badge/-464855455-EB1923?style=social&logo=qq)
 
 <br/>
 
@@ -29,7 +29,7 @@
 - ![](https://img.shields.io/badge/-Docker-2496ED?style=social&logo=docker)
 - ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=social&logo=javascript)
 - ![](https://img.shields.io/badge/-Unity-FFFFFF?style=social&logo=unity)
-- ![](https://img.shields.io/badge/-Photoshop-31A8FF?style=social&logo=adobephotoshop)
+- ![](https://img.shields.io/badge/-Photoshop-31A8FF?style=social&logo=phpstorm)
 
 <br/>
 
