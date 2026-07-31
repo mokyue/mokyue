@@ -8,7 +8,7 @@
 
 - ![](https://img.shields.io/badge/-Mainly%20using%20C/C++,%20Python,%20Java-246FDB?style=social&logo=googletagmanager)
 - ![](https://img.shields.io/badge/-Senior%20Software%20Development%20Engineer-0018A8?style=social&logo=deutschebank)
-- ![](https://img.shields.io/badge/-Client%20Side%20Developmente%20(Windows,%20Android,%20iOS)-F26207?style=social&logo=platformdotsh)
+- ![](https://img.shields.io/badge/-Client%20Side%20Developmente%20(Windows,%20Android,%20iOS,%20macOS,%20Xbox)-F26207?style=social&logo=platformdotsh)
 - ![](https://img.shields.io/badge/-Cantonese,%20Mandarin,%20English-4285F4?style=social&logo=googleearth)
 - ![](https://img.shields.io/badge/-mokyue@163.com-EA4335?style=social&logo=gmail)
 - ![](https://img.shields.io/badge/-Moky%239268-5865F2?style=social&logo=discord)
@@ -37,7 +37,7 @@
 
 - `💼 I’m currently employed at Netease`
 - `🙇🏻 I’m currently learning FFMPEG`
-- `🖼️ I’m playing Stable Diffusion for fun, amateur Lora model trainer, GPU terminator`
 - `⛱️ I'm planning a trip during the outbreak`
-- `☕ A cup of coffee a day, with 4 shots of espresso`
+- `☕️ A cup of coffee a day, with 4 shots of espresso`
 - `🚭 Non-smoker`
+- `💀 If I'm ever optimized out one day, it can only mean I got distilled into a SKILL.`
